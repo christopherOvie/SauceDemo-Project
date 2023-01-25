@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Launched the Application URL]]>
+    </line>
+    <line>
+      <![CDATA[Trying to login as Locked User]]>
+    </line>
+    <line>
+      <![CDATA[Exiting browser]]>
+    </line>
+    <line>
+      <![CDATA[Launched the Application URL]]>
+    </line>
+    <line>
+      <![CDATA[Logged in as Performance Glitch User]]>
+    </line>
+    <line>
+      <![CDATA[Added two items to cart]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Cart button]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Checkout button]]>
+    </line>
+    <line>
+      <![CDATA[Entered user information ]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Continue button on checkout page]]>
+    </line>
+    <line>
+      <![CDATA[Verified Items Total price without tax]]>
+    </line>
+    <line>
+      <![CDATA[Verified total price including tax]]>
+    </line>
+    <line>
+      <![CDATA[Exiting browser]]>
+    </line>
+    <line>
+      <![CDATA[Launched the Application URL]]>
+    </line>
+    <line>
+      <![CDATA[Logged in as Problem User]]>
+    </line>
+    <line>
+      <![CDATA[Same images are displayes for more than one product]]>
+    </line>
+    <line>
+      <![CDATA[Exiting browser]]>
+    </line>
+    <line>
+      <![CDATA[Launched the Application URL]]>
+    </line>
+    <line>
+      <![CDATA[Logged in as Standard User]]>
+    </line>
+    <line>
+      <![CDATA[Added two items to cart]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Cart button]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Checkout button]]>
+    </line>
+    <line>
+      <![CDATA[Entered user information ]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Continue button on checkout page]]>
+    </line>
+    <line>
+      <![CDATA[Verified Items Total price without tax]]>
+    </line>
+    <line>
+      <![CDATA[Verified total price including tax]]>
+    </line>
+    <line>
+      <![CDATA[Exiting browser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-01-24T21:16:10Z" name="sauceDemo" finished-at="2023-01-24T21:16:27Z" duration-ms="17551">
+    <groups>
+    </groups>
+    <test started-at="2023-01-24T21:16:10Z" name="swagLab" finished-at="2023-01-24T21:16:27Z" duration-ms="17551">
+      <class name="swagLab.TestRunner">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:swagLab.TestRunner@6121c9d6]" started-at="2023-01-24T21:16:10Z" name="launchApplication" finished-at="2023-01-24T21:16:16Z" duration-ms="5919" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Launched the Application URL]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="checkLockeduser()[pri:0, instance:swagLab.TestRunner@6121c9d6]" started-at="2023-01-24T21:16:16Z" name="checkLockeduser" finished-at="2023-01-24T21:16:16Z" duration-ms="223" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Trying to login as Locked User]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkLockeduser -->
+        <test-method is-config="true" signature="closeSession()[pri:0, instance:swagLab.TestRunner@6121c9d6]" started-at="2023-01-24T21:16:16Z" name="closeSession" finished-at="2023-01-24T21:16:16Z" duration-ms="76" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Exiting browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeSession -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:swagLab.TestRunner@6121c9d6]" started-at="2023-01-24T21:16:16Z" name="launchApplication" finished-at="2023-01-24T21:16:18Z" duration-ms="1568" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Launched the Application URL]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="checkPerformanceGlitchUser()[pri:0, instance:swagLab.TestRunner@6121c9d6]" started-at="2023-01-24T21:16:18Z" name="checkPerformanceGlitchUser" finished-at="2023-01-24T21:16:23Z" duration-ms="5609" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged in as Performance Glitch User]]>
+            </line>
+            <line>
+              <![CDATA[Added two items to cart]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Cart button]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Checkout button]]>
+            </line>
+            <line>
+              <![CDATA[Entered user information ]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Continue button on checkout page]]>
+            </line>
+            <line>
+              <![CDATA[Verified Items Total price without tax]]>
+            </line>
+            <line>
+              <![CDATA[Verified total price including tax]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkPerformanceGlitchUser -->
+        <test-method is-config="true" signature="closeSession()[pri:0, instance:swagLab.TestRunner@6121c9d6]" started-at="2023-01-24T21:16:23Z" name="closeSession" finished-at="2023-01-24T21:16:23Z" duration-ms="77" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Exiting browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeSession -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:swagLab.TestRunner@6121c9d6]" started-at="2023-01-24T21:16:23Z" name="launchApplication" finished-at="2023-01-24T21:16:25Z" duration-ms="1559" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Launched the Application URL]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="checkProblemUser()[pri:0, instance:swagLab.TestRunner@6121c9d6]" started-at="2023-01-24T21:16:25Z" name="checkProblemUser" finished-at="2023-01-24T21:16:25Z" duration-ms="164" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged in as Problem User]]>
+            </line>
+            <line>
+              <![CDATA[Same images are displayes for more than one product]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkProblemUser -->
+        <test-method is-config="true" signature="closeSession()[pri:0, instance:swagLab.TestRunner@6121c9d6]" started-at="2023-01-24T21:16:25Z" name="closeSession" finished-at="2023-01-24T21:16:25Z" duration-ms="74" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Exiting browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeSession -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:swagLab.TestRunner@6121c9d6]" started-at="2023-01-24T21:16:25Z" name="launchApplication" finished-at="2023-01-24T21:16:27Z" duration-ms="1613" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Launched the Application URL]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="checkoutAnItem()[pri:0, instance:swagLab.TestRunner@6121c9d6]" started-at="2023-01-24T21:16:27Z" name="checkoutAnItem" finished-at="2023-01-24T21:16:27Z" duration-ms="587" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged in as Standard User]]>
+            </line>
+            <line>
+              <![CDATA[Added two items to cart]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Cart button]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Checkout button]]>
+            </line>
+            <line>
+              <![CDATA[Entered user information ]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Continue button on checkout page]]>
+            </line>
+            <line>
+              <![CDATA[Verified Items Total price without tax]]>
+            </line>
+            <line>
+              <![CDATA[Verified total price including tax]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkoutAnItem -->
+        <test-method is-config="true" signature="closeSession()[pri:0, instance:swagLab.TestRunner@6121c9d6]" started-at="2023-01-24T21:16:27Z" name="closeSession" finished-at="2023-01-24T21:16:27Z" duration-ms="76" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Exiting browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeSession -->
+      </class> <!-- swagLab.TestRunner -->
+    </test> <!-- swagLab -->
+  </suite> <!-- sauceDemo -->
+</testng-results>

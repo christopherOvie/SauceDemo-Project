@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [sauceDemo]" verbose="0">
+  <test name="swagLab(failed)">
+    <classes>
+      <class name="swagLab.TestRunner">
+        <methods>
+          <include name="checkProblemUser"/>
+          <include name="launchApplication"/>
+          <include name="checkoutAnItem"/>
+          <include name="checkPerformanceGlitchUser"/>
+          <include name="checkLockeduser"/>
+        </methods>
+      </class> <!-- swagLab.TestRunner -->
+    </classes>
+  </test> <!-- swagLab(failed) -->
+</suite> <!-- Failed suite [sauceDemo] -->
